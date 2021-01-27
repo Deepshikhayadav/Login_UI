@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login_UI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="foodie">Foodie</string>
+    <string name="grill_and_chill">Grill and Chill!!!</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email-ID</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_id">Email-ID</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+</resources>
